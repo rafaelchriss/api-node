@@ -1,4 +1,3 @@
-Claro! Vamos dar uma colorida no seu `README.md` com Markdown para deixá-lo mais atraente. Aqui está um exemplo:
 
 ```markdown
 # 🌟 RestAPI Node 🌟
