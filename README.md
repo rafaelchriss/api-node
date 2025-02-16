@@ -50,11 +50,3 @@ Este projeto é uma API RESTful criada com Node.js para gerenciar seleções de 
     ```sh
     npm start
     ```
-
-## 📄 Licença
-Este projeto está licenciado sob a [MIT License](LICENSE).
-```
-
-Você pode personalizar esse exemplo conforme necessário, adicionando mais seções ou ajustando os detalhes. Basta copiar o conteúdo acima e colá-lo no seu arquivo `README.md`.
-
-Se precisar de mais alguma coisa, estou aqui para ajudar! 😊
