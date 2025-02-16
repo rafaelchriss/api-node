@@ -9,7 +9,7 @@ Este projeto é uma API RESTful criada com Node.js para gerenciar seleções de 
 ## 🚀 Tecnologias
 - Node.js
 - Express.js
-- MongoDB
+- MySql
 
 ## 📂 Estrutura do Projeto
 ```plaintext
