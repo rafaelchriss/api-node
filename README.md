@@ -45,7 +45,6 @@ Este projeto é uma API RESTful criada com Node.js para gerenciar seleções de 
     ```sh
     npm install
     ```
-3. Configure as variáveis de ambiente no arquivo `.env`.
 4. Inicie o servidor:
     ```sh
     npm start
