@@ -43,10 +43,10 @@ Este projeto é uma API RESTful criada com Node.js para gerenciar seleções de 
     ```
 2. Instale as dependências:
     ```sh
-    npm install && npm run dev
+    npm install 
     ```
     
 4. Inicie o servidor:
     ```sh
-    npm start
+    npm run dev
     ```
